@@ -1,4 +1,4 @@
-# <img src="elmo dalle2.png" alt="image_description" width="40" height="40"/>   scELMo: Embeddings from Language Models are Good Learners for Single-cell Multiomics 
+# <img src="elmo dalle2.png" alt="image_description" width="40" height="40"/>   scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis
 
 
 
