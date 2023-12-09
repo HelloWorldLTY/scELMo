@@ -67,3 +67,15 @@ Wangjie Zheng (wangjie.zheng@yale.edu)
 Xiao Luo (xiaoluo@cs.ucla.edu)
 
 # Citation
+
+@article {Liu2023.12.07.569910,
+	author = {Tianyu Liu and Tianqi Chen and Wangjie Zheng and Xiao Luo and Hongyu Zhao},
+	title = {scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis},
+	elocation-id = {2023.12.07.569910},
+	year = {2023},
+	doi = {10.1101/2023.12.07.569910},
+	publisher = {Cold Spring Harbor Laboratory},
+	URL = {https://www.biorxiv.org/content/early/2023/12/08/2023.12.07.569910},
+	eprint = {https://www.biorxiv.org/content/early/2023/12/08/2023.12.07.569910.full.pdf},
+	journal = {bioRxiv}
+}
