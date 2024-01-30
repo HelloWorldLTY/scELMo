@@ -60,7 +60,7 @@ We are happy to see if you have more exciting ideas about the extension of scELM
 
 Tianyu Liu (tianyu.liu@yale.edu)
 
-Tianqi Chen (tianqi.chen@yale.edu)
+Tianqi Chen (Tianqi.chen.tc732@yale.edu)
 
 Wangjie Zheng (wangjie.zheng@yale.edu)
 
