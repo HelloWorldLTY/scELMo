@@ -15,7 +15,7 @@ The descriptions and tutorials for OpenAI API can be found in this [link](https:
 We reply on these packages for zero-shot learning analysis.
 
 ```
-pip install scib scib_metrics pickle mygene scanpy scikit-learn
+pip install scib scib_metrics==0.3.3 pickle mygene scanpy==1.9.3 scikit-learn
 ```
 
 Installing hnswlib from the original Github profile to avoid potential errors.
