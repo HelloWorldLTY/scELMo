@@ -38,7 +38,7 @@ For the perturbation analysis, please install related pacakges based on their we
 
 # Tutorials
 
-Please use the example ipynb notebook in each folders as instructions. Evaluations are included in the notebooks.
+Please use the example ipynb notebook in each folders as instructions. Evaluations are included in the notebooks. The demo tutorial can be finished in a normal computer within 10 minutes with a prepared environment.
 
 # Datasets
 
@@ -68,15 +68,12 @@ Xiao Luo (xiaoluo@cs.ucla.edu)
 
 # Citation
 ```
-@article {Liu2023.12.07.569910,
-	author = {Tianyu Liu and Tianqi Chen and Wangjie Zheng and Xiao Luo and Hongyu Zhao},
-	title = {scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis},
-	elocation-id = {2023.12.07.569910},
-	year = {2023},
-	doi = {10.1101/2023.12.07.569910},
-	publisher = {Cold Spring Harbor Laboratory},
-	URL = {https://www.biorxiv.org/content/early/2023/12/08/2023.12.07.569910},
-	eprint = {https://www.biorxiv.org/content/early/2023/12/08/2023.12.07.569910.full.pdf},
-	journal = {bioRxiv}
+@article{liu2023scelmo,
+  title={scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis},
+  author={Liu, Tianyu and Chen, Tianqi and Zheng, Wangjie and Luo, Xiao and Zhao, Hongyu},
+  journal={bioRxiv},
+  pages={2023--12},
+  year={2023},
+  publisher={Cold Spring Harbor Laboratory}
 }
 ```
