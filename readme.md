@@ -36,6 +36,8 @@ conda install lightning -c conda-forge
 
 For the perturbation analysis, please install related pacakges based on their website and use the modifeid version provided in the **Perturbation Analysis** folder: [CINEMAOT](https://github.com/vandijklab/CINEMA-OT/tree/main), [CPA](https://github.com/theislab/cpa) and [GEARS](https://github.com/snap-stanford/GEARS/tree/master).
 
+To generate gene embeddings from sequence models (as seq2emb), please refer [seq2cells](https://github.com/GSK-AI/seq2cells) to install related packages. 
+
 # Tutorials
 
 Please use the example ipynb notebook in each folders as instructions. Evaluations are included in the notebooks. The demo tutorial can be finished in a normal computer within 10 minutes with a prepared environment.
@@ -52,7 +54,7 @@ We are maintaining a [website](https://sites.google.com/yale.edu/scelmolib) cont
 
 We refer the codes from the following packages to implement scELMo. Many thanks to these great developers:
 
-[GenePT](https://github.com/yiqunchen/GenePT), [CINEMAOT](https://github.com/vandijklab/CINEMA-OT/tree/main), [CPA](https://github.com/theislab/cpa) and [GEARS](https://github.com/snap-stanford/GEARS/tree/master).
+[GenePT](https://github.com/yiqunchen/GenePT), [seq2cells](https://github.com/GSK-AI/seq2cells), [CINEMAOT](https://github.com/vandijklab/CINEMA-OT/tree/main), [CPA](https://github.com/theislab/cpa) and [GEARS](https://github.com/snap-stanford/GEARS/tree/master).
 
 # Open for contribution
 
