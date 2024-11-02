@@ -38,6 +38,9 @@ For the perturbation analysis, please install related pacakges based on their we
 
 To generate gene embeddings from sequence models (as seq2emb), please refer [seq2cells](https://github.com/GSK-AI/seq2cells) to install related packages. 
 
+
+For users who cannot access OpenAI API, we provide an alternative solution based on [deepseekv2](https://www.deepseek.com/). Please refer the **Get outputs from LLMs** for more information.
+
 # Tutorials
 
 Please use the example ipynb notebook in each folders as instructions. Evaluations are included in the notebooks. The demo tutorial can be finished in a normal computer within 10 minutes with a prepared environment.
@@ -61,12 +64,6 @@ We refer the codes from the following packages to implement scELMo. Many thanks 
 We are happy to see if you have more exciting ideas about the extension of scELMo. Feel free to contact us for discussion:
 
 Tianyu Liu (tianyu.liu@yale.edu)
-
-Tianqi Chen (Tianqi.chen.tc732@yale.edu)
-
-Wangjie Zheng (wangjie.zheng@yale.edu)
-
-Xiao Luo (xiaoluo@cs.ucla.edu)
 
 # Citation
 ```
