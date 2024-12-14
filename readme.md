@@ -2,6 +2,10 @@
 
 
 
+# News!
+
+We have uploaded gene embeddings from gpt4-o and drug embeddings from GPT 3.5 in our website, please check them if you wanna have a try!
+
 # Installation
 
 We rely on OpenAI API for query.
@@ -76,3 +80,8 @@ Tianyu Liu (tianyu.liu@yale.edu)
   publisher={Cold Spring Harbor Laboratory}
 }
 ```
+
+# Related work
+
+- [spEMO](https://github.com/HelloWorldLTY/spEMO)
+- [scLAMBDA](https://github.com/gefeiwang/scLAMBDA)
