@@ -71,13 +71,17 @@ Tianyu Liu (tianyu.liu@yale.edu)
 
 # Citation
 ```
-@article{liu2023scelmo,
-  title={scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis},
-  author={Liu, Tianyu and Chen, Tianqi and Zheng, Wangjie and Luo, Xiao and Zhao, Hongyu},
-  journal={Cell Patterns (in press)},
-  pages={2023--12},
-  year={2025},
-  publisher={Cell Press}
+@article{liu2025scelmo,
+title = {Embeddings from language models are good learners for single-cell data analysis},
+journal = {Patterns},
+pages = {101431},
+year = {2026},
+issn = {2666-3899},
+doi = {https://doi.org/10.1016/j.patter.2025.101431},
+url = {https://www.sciencedirect.com/science/article/pii/S266638992500279X},
+author = {Tianyu Liu and Tianqi Chen and Wangjie Zheng and Xiao Luo and Yiqun Chen and Hongyu Zhao},
+keywords = {single-cell data analysis, foundation model, large language model,  treatment analysis, perturbation analysis},
+publisher={Cell Press}
 }
 ```
 
@@ -86,3 +90,4 @@ Tianyu Liu (tianyu.liu@yale.edu)
 - [spEMO](https://github.com/HelloWorldLTY/spEMO)
 
 - [scLAMBDA](https://github.com/gefeiwang/scLAMBDA)
+
